@@ -31,7 +31,7 @@
 > I've marked this project as [UNMAINTAINED](https://unmaintained.tech/) because it hasn't seen an update in a while. You can still fork/download/use this project at your own risk, but I won't be able to provide support or updates.
 
 > [!WARNING]
-> This is an experimental or POC project. It may contain bugs or incomplete features, and is not intended for production use. Breaking changes may be made at any time. Consider more stable alternatives for critical applications.
+> This is currently an experimental project or proof-of-concept. It may contain bugs or incomplete features, and is not intended for production use. Breaking changes may be made at any time. Consider more stable alternatives for critical applications.
 
 ## About
 This is an experimental URL shortener using client-side redirects. If you want a simple link shortener for personal use but don't have your own server for setting up HTTP redirects, you may find this interesting.
