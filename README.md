@@ -67,6 +67,22 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 The project logo is based on the `ruler-solid.svg` by [FontAwesome] and is licensed under [CC BY-SA 4.0].
 
+
+## 💕 Funding
+
+Find this project useful? [Sponsoring me](https://johng.io/funding) will help me cover costs and **_commit_** more time to open-source.
+
+If you can't donate but still want to contribute, don't worry. There are many other ways to help out, like:
+
+- 📢 reporting (submitting feature requests & bug reports)
+- 👨‍💻 coding (implementing features & fixing bugs)
+- 📝 writing (documenting & translating)
+- 💬 spreading the word
+- ⭐ starring the project
+
+I appreciate the support!
+
+
 [FontAwesome]: https://fontawesome.com/
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 [Jekyll]: https://jekyllrb.com/
