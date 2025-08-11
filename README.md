@@ -33,19 +33,19 @@
 > [!WARNING]
 > This is currently an experimental project or proof-of-concept. It may contain bugs or incomplete features, and is not intended for production use. Breaking changes may be made at any time. Consider more stable alternatives for critical applications.
 
-## About
+## 👋 About
 This is an experimental URL shortener using client-side redirects. If you want a simple link shortener for personal use but don't have your own server for setting up HTTP redirects, you may find this interesting.
 
 Obviously, it's not a good idea to use this for anything important. Client-side redirects are slower and less reliable than HTTP redirects because they require the page to load before redirecting. They can negatively impact SEO, as search engines may not follow them consistently, and may cause accessibility issues or a poor user experience—especially if users briefly see the original page.
 
 
-## Installation
+## 📦 Installation
 This project is built with [Jekyll] and hosted on [GitHub Pages].
 
 If you don't already have Ruby installed, refer to the [Ruby documentation] for installation instructions. You can then install Jekyll and Bundler with `gem install bundler jekyll`.
 
 
-## Usage
+## 🕹️ Usage
 ID to target URL mappings are defined using Markdown files in the `_links` directory. Each file represents a single link, where the filename is the ID of the link, and the target URL is defined using the `to` key in the YAML front matter.
 
 In the following example, the link `/github` will redirect to `https://github.com/jerboa88`:
@@ -62,7 +62,7 @@ You can build the site using `bundle exec jekyll build` and serve it locally usi
 Refer to the [GitHub Pages with Jekyll] documentation for more information about hosting Jekyll sites on GitHub Pages.
 
 
-## License
+## 🧾 License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 The project logo is based on the `ruler-solid.svg` by [FontAwesome] and is licensed under [CC BY-SA 4.0].
